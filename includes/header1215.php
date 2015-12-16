@@ -4,8 +4,8 @@
 		<meta charset="UTF-8" />
 		<title>Translations</title>
 
-<link href="style2.css" rel="stylesheet" type="text/css"/>
 <link href="cssmenu/styles.css" rel="stylesheet" type="text/css"/>
+<link href="style2.css" rel="stylesheet" type="text/css"/>
 <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
 <!--<script src="script.js"></script>-->
 </head>
